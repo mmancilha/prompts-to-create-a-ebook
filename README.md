@@ -7,7 +7,7 @@ Este é o repositório desenvolvido durante o BootCamp Santander no qual fui alu
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-📕[Clique aqui para ler](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/README.MD)
+📕[Clique aqui para ler](https://github.com/mmancilha/prompts-to-create-a-ebook/blob/main/Ebook/Projeto%20EBOOK%20Gerado%20por%20I.A.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
